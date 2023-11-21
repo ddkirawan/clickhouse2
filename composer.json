@@ -1,0 +1,22 @@
+{
+    "name": "ddkirawan/clickhouse",
+    "description": "Driver yii2 clickhouse",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "irawan",
+            "email": "didik.ira12@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"bashkarev/clickhouse":"2.0.5"
+	},
+	"repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
