@@ -6,6 +6,8 @@
 namespace ddkirawan\clickhouse;
 
 use yii\db\TableSchema;
+use bashkarev\clickhouse\ColumnSchemaBuilder;
+use bashkarev\clickhouse\QueryBuilder;
 
 class Schema extends \yii\db\mysql\Schema
 {

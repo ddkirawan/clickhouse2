@@ -9,14 +9,14 @@
             "email": "didik.ira12@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
 		"bashkarev/clickhouse":"2.0.5"
 	},
 	"repositories": [
         {
-            "type": "composer",
-            "url": "https://asset-packagist.org"
+          "type": "vcs",
+          "url": "https://github.com/ddkirawan/clickhouse.git"
         }
-    ]
+    ],
 }
